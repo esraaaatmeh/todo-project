@@ -1,0 +1,107 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Navbar{
+    background-color: #383848;
+    height: 40px;
+
+}
+#todo{
+    padding-top: 15px;
+    color: white;
+    font-size: 30px;
+    text-decoration:none;
+
+}
+
+nav h1 a:visited{
+    color:white;
+    text-decoration:none;
+
+}
+
+nav ul li a{
+    color:white;
+    float: left;
+    margin-right: 10px;
+    list-style: none;
+    text-decoration:none;
+}
+nav ul li a:hover{
+    color:#e4b95b;
+}
+nav ul li a:visited{
+
+    text-decoration:none;
+}
+
+#navdivleft{
+    float:left;
+    width: 70%;
+
+    
+}
+#navdivright{
+    float:left;
+    width: 20%;
+    margin-top: 10px;
+    
+
+}
+#logo{
+    float: left;
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+table, th, td {
+    border: 2px solid #e4b95b;
+    width: 500px;
+    height: 50px;
+    text-align: left;
+    font-weight: bolder;
+  }
+#table{
+    margin-top: 50px;
+  }
+
+#footer div{
+    margin: 30px;
+    float: left;
+
+}
+#footer div p{
+    margin-bottom: 10px;
+
+    font-weight: bolder;
+    color:#e4b95b;
+
+}
+#footer div li a:visited {
+    color:rgb(34, 31, 31);
+  }
+
+#footer div li a{
+    color:rgb(34, 31, 31);
+    text-decoration: none;
+  }
+#footer div li {
+    color:rgb(34, 31, 31);
+    line-height: 30px;
+  }
+#footer{
+    margin-top: 250px;
+}
+
+#pabout{
+    margin: 20px;
+    border:2px solid #e4b95b;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    font-size: 30px;
+    line-height: 50px;
+}
+#qh1{
+    padding-top: 20px;
+}
